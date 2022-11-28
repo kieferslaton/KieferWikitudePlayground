@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 386945642, guid: 91fd7328b3c484c248cdb8b9e8ab2261, type: 3}
+  m_Name: License Key
+  m_EditorClassIdentifier: 
+  _wikitudeLicenseKey: 4ieNa8sB6C6i/1O2jlZQcAwbgAaUcJF6ADWnoojbQoZvS6y910FBzaj6iGyVv21FJBtmuYKS6eD+k2G88GYYE7R8GRCwMn1n32I6pvpexGKhgT7bf8dld3zxjgMW/PL69xun5VW9uvxyFDtvaKK3et0G6P1WkFVWfI9urryuoxxTYWx0ZWRfX7780u6jJLJu1dsgju1OY3/j/t1gifGJTuY65mbKjsBUHaNZD1+zX+jE/GQAEJ83R/4XxiDO59ve7EWgfCftJi+TzNiTS5cip2z74Ryzh54hxHNJj200lO1yXImaje/RuUukcIL9Rp9wuC766pSOpfMh2Jw+U64bK3mNIGvycMvAKAvlbNvhnVEUmAgOXjbf04WnSBOXug7wTRfvyLR86a14XpcBAqtAxteqnB5qEfryUyjLClCDiVNPIv/rzx27TvoWRQucbACTj6okiuOMo6z2wijF9yczLiPUaPAXZKD1Z0BKj80XZuJ8YLoILwX25bQqTUER9d3aSFyC8iKX6wYHArbaql1UQJGg/a28avGwVELhO7oFG7GS3ffcWU5zSutUrSOX14D9AL0Sfasct9UBILeuPYmcLASH4h4dKKZiQGGfBhGAXMDUiDIU/T6WSq+pbLvGRSm2jv60ltF+JRISKDoayNN8t2pNYnFNVWVC3y0W4rxnfcUcwBU2cNdlkIbobvx7Bq4nqT7jXrf2GH0BYn7A01uB7d87016OKgbkf06tU0AfTV/XGgwaDgn9dG3ykEpetJxcLhDm87b+60/4TIzFDlOj9QnCY6gKPkp15+oLbzqYYnCdmvHJHczooBgwSSJeLJK/sfABrEoN7CGqvSlL51dH7HSOestagHyUu6nw551mPbU=

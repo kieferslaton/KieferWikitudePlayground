@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Main Menu.unity
+    guid: da8e1c28ae19e48a481bfd6288f566a2
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - Image Tracking.unity
+    guid: 5fb3ef8ef77e74d158206baf5190937c
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - Image Tracking
+      with WTC.unity
+    guid: 362798bdc899749ed8770115937f9050
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - Image Tracking
+      with Video.unity
+    guid: 3ea819cccf3f46d4eb751c26ab04e88d
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - Cylinder
+      Tracking.unity
+    guid: 39a48b29e89c14960905aee98a04760f
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - Cloud Tracking.unity
+    guid: 67ceb4b215e1a4a03aa2c37597f97827
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - Object
+      Tracking.unity
+    guid: 3d97ab49928174d7aba4efb79f9fe276
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - Alignment
+      Initialization.unity
+    guid: b05f662425de146feb173f5517e23b07
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - Runtime
+      Tracker.unity
+    guid: ccd88cc70018c45d2b7ceb65a8d099ce
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - QR Plugin.unity
+    guid: 24cbca90ade384be98a0c03ef0b86c5d
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Simple - Camera
+      Controls.unity
+    guid: 60f687808d9a848f2b820c1e1d5904dd
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Multiple - Image
+      Tracking.unity
+    guid: 8877c0f7a7bae4baeadda9f103b679cd
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Multiple - Object
+      Tracking.unity
+    guid: 264dc32ba588d4eb8829acd01e09e891
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/Multiple - Mixing
+      Trackers.unity
+    guid: 338f26a2c80684614bf77df430db6c0a
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/AR Bridge - Image
+      Tracking.unity
+    guid: 7529541daa61f45d0aa5ba7e5af6fb78
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/AR Bridge - Cylinder
+      Tracking.unity
+    guid: e46eb0149a2484fe8876d5ce3f901d29
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/AR Bridge - Multiple
+      Trackers.unity
+    guid: c50c1599e69f24e2d83a626fff60a464
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Core/9.10.0/Samples/Scenes/AR Bridge - Multiple
+      Extended Targets.unity
+    guid: 49e0ff0214fe6d648b976ce8247282d2
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Extension - AR Foundation/9.10.0/Samples/Scenes/AR
+      Foundation - Cylinder Tracking.unity
+    guid: cd2ad1f7d987a49e09d3eee71131a53a
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Extension - AR Foundation/9.10.0/Samples/Scenes/AR
+      Foundation - Multiple Trackers.unity
+    guid: 37bae2651c173475ca96fe210b83e2de
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Extension - AR Foundation/9.10.0/Samples/Scenes/AR
+      Foundation - Advanced Rendering.unity
+    guid: 308017b83936c47888cd04462e63bf04
+  - enabled: 0
+    path: Assets/Samples/Wikitude SDK Extension - AR Foundation/9.10.0/Samples/Scenes/AR
+      Foundation - Alignment Initialization.unity
+    guid: a51fca291d43c4e9984a569256de1f24
+  - enabled: 1
+    path: Assets/Image Tracking.unity
+    guid: f91282ccabf7b419098690cda07e3e64
+  - enabled: 1
+    path: Assets/Object Tracking.unity
+    guid: d6fa8068466154c54ac702fc6a398bb6
+  - enabled: 1
+    path: Assets/Image Tracking with Toggle.unity
+    guid: df7739b34d8ab443eaabaa4892e8b685
+  - enabled: 1
+    path: Assets/Image Tracking with Cycle.unity
+    guid: 1bebb0eb4d40b45a69b3bb931550bc6e
+  - enabled: 1
+    path: Assets/Image Tracking with Color Palette.unity
+    guid: 179ea9043432a4fad843013e4b2f31de
+  - enabled: 1
+    path: Assets/Image Tracking with Scaling.unity
+    guid: 323ee51696ae5435d8b309176a0ba83f
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d8c4c00e8084d42aebbdec442e066533,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 68e7e466050724e9890d333e0ea87112,
+      type: 2}
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: 92a82cebb75c14bb7b8199f35ba50087,
+      type: 2}
+    com.unity.xr.management.arkit_loader: {fileID: 11400000, guid: 575835b8c49c740e187c7e3485667949,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8016e3bc4e912473f8bd575488e3111e,
+      type: 2}
+    com.wikitude.sdk_license_key: {fileID: 11400000, guid: 33a90293c905540d5b1968e80bb3dfc0,
+      type: 2}
