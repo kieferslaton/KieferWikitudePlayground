@@ -107,6 +107,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Image Tracking with Scaling.unity
     guid: 323ee51696ae5435d8b309176a0ba83f
+  - enabled: 1
+    path: Assets/Image Tracking with Drawable Click.unity
+    guid: bbb0afbe1cc6a4f8e8b55e83ddcefec0
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d8c4c00e8084d42aebbdec442e066533,
       type: 2}
