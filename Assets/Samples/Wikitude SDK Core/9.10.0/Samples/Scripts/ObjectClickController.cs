@@ -2,13 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Wikitude;
 
 public class ObjectClickController : MonoBehaviour
 {
-    private int clickTrack = 0;
+
+    private ClickTracker tracker;
+
+    void Awake()
+    {
+        tracker = GameObject.Find("Click Count").GetComponent<ClickTracker>();
+    }
+
     void OnMouseDown()
     {
-        clickTrack++;
-        GameObject.Find("Click Count").GetComponentInChildren<Text>().text = $"Click Count: {clickTrack}";
+        tracker.Increment();
     }
 }
